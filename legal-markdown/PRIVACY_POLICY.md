@@ -2,7 +2,7 @@
 
 Effective date: June 9, 2026
 
-This Privacy Policy explains how ProofKeep Receipts, handles information.
+This Privacy Policy explains how ProofKeep Receipts handles information.
 
 ## Summary
 
