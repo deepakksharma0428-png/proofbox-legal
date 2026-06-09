@@ -6,7 +6,7 @@ These Terms of Use govern your access to and use of ProofBox, including the iOS 
 
 ## Owner
 
-ProofBox is owned and operated by Deepak Sharma.
+ProofBox is owned and operated by Deepak Sharma. Copyright (c) 2026 Deepak Sharma. All rights reserved.
 
 ## Acceptance
 
@@ -33,6 +33,10 @@ ProofBox is an organizational tool. It does not provide legal, financial, tax, w
 ProofBox, including the app name, source code, design, icons, workflows, software architecture, text, documentation, visual assets, classifications, and related materials, is owned by Deepak Sharma or licensed to Deepak Sharma.
 
 Except for rights expressly granted to you under these Terms, all rights, title, and interest in ProofBox are reserved. You may not copy, reproduce, modify, distribute, sell, sublicense, reverse engineer, or create derivative works from ProofBox except where allowed by applicable law or with written permission from Deepak Sharma.
+
+## Free and Paid Features
+
+ProofBox may provide a free tier with a limited number of saved proof items and an optional paid ProofBox Pro lifetime unlock. Paid digital features offered in the iOS app are processed through Apple In-App Purchase. Availability, pricing, and features may change as permitted by applicable law and App Store rules.
 
 ## Feedback
 

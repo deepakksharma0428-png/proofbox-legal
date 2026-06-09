@@ -19,7 +19,7 @@ The current ProofBox prototype is local-only:
 
 ## Who Operates ProofBox
 
-ProofBox is owned and operated by Deepak Sharma.
+ProofBox is owned and operated by Deepak Sharma. Copyright (c) 2026 Deepak Sharma. All rights reserved.
 
 ## Information Processed On Your Device
 
