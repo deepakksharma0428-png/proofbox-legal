@@ -2,11 +2,11 @@
 
 Effective date: June 9, 2026
 
-This Privacy Policy explains how ProofBox handles information.
+This Privacy Policy explains how ProofBox Vault, also referred to as ProofBox, handles information.
 
 ## Summary
 
-The current ProofBox app is local-only:
+The current ProofBox Vault app is local-only:
 
 - No account is required.
 - No backend is used.
@@ -19,7 +19,7 @@ The current ProofBox app is local-only:
 
 ## Who Operates ProofBox
 
-ProofBox is owned and operated by Deepak Sharma. Copyright (c) 2026 Deepak Sharma. All rights reserved.
+ProofBox Vault and the ProofBox app materials are owned and operated by Deepak Sharma. Copyright (c) 2026 Deepak Sharma. All rights reserved.
 
 ## Who ProofBox Is For
 
@@ -60,7 +60,7 @@ The current app does not sync data to a server. If you delete the app, local app
 
 ## Purchases
 
-If you buy ProofBox Pro through Apple In-App Purchase, Apple processes the transaction. ProofBox may read local App Store entitlement information to unlock paid features, but the current app does not send purchase records to a ProofBox server.
+If you buy ProofBox Pro or redeem an Apple offer or promo code through Apple In-App Purchase, Apple processes the transaction or redemption. ProofBox may read local App Store entitlement information to unlock paid features, but the current app does not send purchase records to a ProofBox server.
 
 ## Data Sharing
 
@@ -96,4 +96,4 @@ If future versions add accounts, cloud sync, analytics, subscriptions, AI servic
 
 ## Contact
 
-For privacy questions, use the contact method listed in the App Store listing or official ProofBox support page once published.
+For privacy questions, use the official ProofBox Vault support page or the contact method listed in the App Store listing.

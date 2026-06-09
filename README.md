@@ -1,8 +1,8 @@
 # ProofBox Legal Site
 
-This repository hosts the public legal, privacy, support, and ownership pages for ProofBox.
+This repository hosts the public legal, privacy, support, and ownership pages for ProofBox Vault, also referred to as ProofBox in the app and legal pages.
 
-ProofBox is a local-first iOS app for finding and organizing receipts, return labels, shipping proof, warranties, grocery receipts, and purchase screenshots already saved on a user's device.
+ProofBox Vault is a local-first iOS app for finding and organizing receipts, return labels, shipping proof, warranties, grocery receipts, and purchase screenshots already saved on a user's device.
 
 ## Pages
 
@@ -17,13 +17,17 @@ ProofBox is a local-first iOS app for finding and organizing receipts, return la
 
 Copyright (c) 2026 Deepak Sharma. All rights reserved.
 
-ProofBox, including the app name, source code, object code, interface design, product concept, workflows, documentation, text, icons, app metadata, screenshots, and related assets, is owned by Deepak Sharma unless otherwise stated in writing.
+ProofBox Vault and the ProofBox app materials, including the source code, object code, interface design, product concept, workflows, documentation, text, icons, app metadata, screenshots, and related assets, are owned by Deepak Sharma unless otherwise stated in writing.
 
-Deepak Sharma owns ProofBox as the product owner, developer, publisher, and rights holder unless a separate written agreement states otherwise.
+Deepak Sharma owns ProofBox Vault and the ProofBox app materials as the product owner, developer, publisher, and rights holder unless a separate written agreement states otherwise.
 
 ## Privacy Position
 
 The current ProofBox app is local-only. It does not use a backend, account system, analytics, advertising, tracking, or cloud sync. Photos, screenshots, OCR text, labels, reminders, and saved proof records are processed locally on the user's device.
+
+## Free and Paid Features
+
+The free tier may save up to 50 lifetime proof items. Deleting saved proof items does not reset the lifetime free-save count. ProofBox Pro Lifetime is unlocked through Apple In-App Purchase, including Apple's official offer or promo code redemption where available.
 
 ## Intended Use
 

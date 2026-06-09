@@ -2,11 +2,11 @@
 
 Effective date: June 9, 2026
 
-These Terms of Use govern your access to and use of ProofBox, including the iOS app, related documentation, and any related materials.
+These Terms of Use govern your access to and use of ProofBox Vault, also referred to as ProofBox in these Terms, including the iOS app, related documentation, and any related materials.
 
 ## Owner
 
-ProofBox is owned and operated by Deepak Sharma. Copyright (c) 2026 Deepak Sharma. All rights reserved.
+ProofBox Vault and the related ProofBox app materials are owned and operated by Deepak Sharma. Copyright (c) 2026 Deepak Sharma. All rights reserved.
 
 ## Acceptance
 
@@ -40,13 +40,17 @@ You are responsible for verifying all deadlines, return policies, warranty cover
 
 ## Ownership and Intellectual Property
 
-ProofBox, including the app name, source code, design, icons, workflows, software architecture, text, documentation, visual assets, classifications, and related materials, is owned by Deepak Sharma or licensed to Deepak Sharma.
+ProofBox Vault and the ProofBox app materials, including the source code, object code, design, icons, workflows, software architecture, text, documentation, visual assets, classifications, screenshots, metadata, and related materials, are owned by Deepak Sharma or licensed to Deepak Sharma.
+
+These Terms do not claim ownership over general ideas, common receipt scanning or document organization concepts, third-party services, user receipts, merchant names, carrier names, product names, logos, or functionality that others independently own or develop.
 
 Except for rights expressly granted to you under these Terms, all rights, title, and interest in ProofBox are reserved. You may not copy, reproduce, modify, distribute, sell, sublicense, reverse engineer, or create derivative works from ProofBox except where allowed by applicable law or with written permission from Deepak Sharma.
 
 ## Free and Paid Features
 
-ProofBox may provide a free tier with a limited number of saved proof items and an optional paid ProofBox Pro lifetime unlock. Paid digital features offered in the iOS app are processed through Apple In-App Purchase. Availability, pricing, and features may change as permitted by applicable law and App Store rules.
+ProofBox may provide a free tier with up to 50 lifetime saved proof items and an optional paid ProofBox Pro lifetime unlock. Deleting saved proof items does not reset the lifetime free-save count. After the free lifetime save limit is reached, additional saves require ProofBox Pro unless Deepak Sharma changes the free tier in a future version.
+
+Paid digital features offered in the iOS app are processed through Apple In-App Purchase. Apple may also provide official offer, promo, or redemption codes for eligible purchases. Refunds, billing, taxes, family sharing availability, and purchase disputes are handled under Apple's applicable App Store rules. Availability, pricing, and features may change as permitted by applicable law and App Store rules.
 
 ## Feedback
 
@@ -90,4 +94,4 @@ These Terms are governed by the laws of the jurisdiction where Deepak Sharma res
 
 ## Contact
 
-For legal or support questions, use the contact method listed in the App Store listing or official ProofBox support page once published.
+For legal or support questions, use the official ProofBox Vault support page or the contact method listed in the App Store listing.
