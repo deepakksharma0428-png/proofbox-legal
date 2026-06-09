@@ -16,7 +16,13 @@ By downloading, accessing, or using ProofBox, you agree to these Terms. If you d
 
 ProofBox helps users scan, classify, organize, search, and save purchase-related proof such as receipts, return labels, shipping proof, warranty information, grocery receipts, and purchase screenshots.
 
-The current prototype is local-only. It does not require an account, does not use a backend, and does not upload photos or OCR text to a server.
+The current app is local-only. It does not require an account, does not use a backend, and does not upload photos or OCR text to a server.
+
+## Who ProofBox Is For
+
+ProofBox is intended for adults and everyday users who want a simple local-first tool to organize their own purchase-related proof.
+
+ProofBox is not designed for children under 13, regulated professional recordkeeping, legal evidence management, tax compliance systems, medical records, financial custody, or storage of highly sensitive documents.
 
 ## User Content
 
@@ -24,9 +30,13 @@ You are responsible for any photos, screenshots, receipts, labels, notes, recogn
 
 You represent that you have the right to store and use any content you add to the app. You should not use ProofBox to store unlawful, infringing, private third-party, or otherwise unauthorized content.
 
+ProofBox does not claim ownership of user content. Store names, merchant names, carrier names, product names, logos, receipts, labels, screenshots, and documents remain the property of their respective owners.
+
 ## No Professional Advice
 
-ProofBox is an organizational tool. It does not provide legal, financial, tax, warranty, insurance, shipping, refund, or consumer-rights advice. Reminders, labels, extracted text, classifications, and due dates may be incomplete or inaccurate. You are responsible for verifying all deadlines, claim rules, return policies, warranty coverage, and other important information.
+ProofBox is an organizational tool. It does not provide legal, financial, tax, warranty, insurance, shipping, refund, return-policy, chargeback, reimbursement, or consumer-rights advice. Reminders, labels, extracted text, classifications, and due dates may be incomplete or inaccurate.
+
+You are responsible for verifying all deadlines, return policies, warranty coverage, claim rules, tracking details, refund rules, and other important information directly with the merchant, carrier, manufacturer, platform, warranty provider, payment provider, or relevant authority.
 
 ## Ownership and Intellectual Property
 
@@ -51,6 +61,8 @@ If future versions add third-party services, stores, analytics, cloud sync, paym
 ## App Store Terms
 
 Your use of ProofBox may also be governed by Apple's App Store terms, rules, and policies. If these Terms conflict with mandatory Apple terms applicable to your download or use, Apple's terms control to the extent of the conflict.
+
+If no custom EULA is provided in App Store Connect, Apple's standard licensed application end user license agreement may apply in addition to these Terms and notices.
 
 ## Availability and Changes
 

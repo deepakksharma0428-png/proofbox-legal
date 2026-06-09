@@ -6,7 +6,7 @@ This Privacy Policy explains how ProofBox handles information.
 
 ## Summary
 
-The current ProofBox prototype is local-only:
+The current ProofBox app is local-only:
 
 - No account is required.
 - No backend is used.
@@ -20,6 +20,10 @@ The current ProofBox prototype is local-only:
 ## Who Operates ProofBox
 
 ProofBox is owned and operated by Deepak Sharma. Copyright (c) 2026 Deepak Sharma. All rights reserved.
+
+## Who ProofBox Is For
+
+ProofBox is intended for adults and everyday users who want to organize their own purchase-related proof. ProofBox is not intended for children under 13 and is not designed for regulated professional recordkeeping.
 
 ## Information Processed On Your Device
 
@@ -52,17 +56,21 @@ ProofBox may ask for notification permission so it can remind you before return 
 
 ProofBox stores app data locally on your device, including saved proof records, local image copies, OCR text, notes, classifications, and due dates.
 
-The current prototype does not sync data to a server. If you delete the app, local app data may be deleted according to iOS behavior.
+The current app does not sync data to a server. If you delete the app, local app data may be deleted according to iOS behavior.
+
+## Purchases
+
+If you buy ProofBox Pro through Apple In-App Purchase, Apple processes the transaction. ProofBox may read local App Store entitlement information to unlock paid features, but the current app does not send purchase records to a ProofBox server.
 
 ## Data Sharing
 
-The current prototype does not share your saved proof data with Deepak Sharma, analytics providers, advertisers, data brokers, or third-party cloud services.
+The current app does not share your saved proof data with Deepak Sharma, analytics providers, advertisers, data brokers, or third-party cloud services.
 
 If you manually share, export, message, email, or otherwise send proof items outside ProofBox, that sharing is controlled by you and may be handled by Apple's share system or other apps you choose.
 
 ## Tracking and Advertising
 
-ProofBox does not track you across apps or websites and does not include advertising in the current prototype.
+ProofBox does not track you across apps or websites and does not include advertising in the current app.
 
 ## Children's Privacy
 
