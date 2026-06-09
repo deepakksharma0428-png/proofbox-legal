@@ -1,6 +1,6 @@
 # ProofKeep Receipts Legal Site
 
-This repository hosts the public legal, privacy, support, and ownership pages for ProofKeep Receipts, also referred to as ProofKeep Receipts in the app and legal pages.
+This repository hosts the public legal, privacy, support, and ownership pages for ProofKeep Receipts.
 
 ProofKeep Receipts is a local-first iOS app for finding and organizing receipts, return labels, shipping proof, warranties, grocery receipts, and purchase screenshots already saved on a user's device.
 
@@ -17,9 +17,9 @@ ProofKeep Receipts is a local-first iOS app for finding and organizing receipts,
 
 Copyright (c) 2026 Deepak Sharma. All rights reserved.
 
-ProofKeep Receipts and the ProofKeep Receipts app materials, including the source code, object code, interface design, product concept, workflows, documentation, text, icons, app metadata, screenshots, and related assets, are owned by Deepak Sharma unless otherwise stated in writing.
+ProofKeep Receipts and its app materials, including the source code, object code, interface design, product concept, workflows, documentation, text, icons, app metadata, screenshots, and related assets, are owned by Deepak Sharma unless otherwise stated in writing.
 
-Deepak Sharma owns ProofKeep Receipts and the ProofKeep Receipts app materials as the product owner, developer, publisher, and rights holder unless a separate written agreement states otherwise.
+Deepak Sharma owns ProofKeep Receipts and its app materials as the product owner, developer, publisher, and rights holder unless a separate written agreement states otherwise.
 
 ## Privacy Position
 
@@ -27,7 +27,7 @@ The current ProofKeep Receipts app is local-only. It does not use a backend, acc
 
 ## Free and Paid Features
 
-The free tier may save up to 50 lifetime proof items. Deleting saved proof items does not reset the lifetime free-save count. ProofKeep Receipts Pro Lifetime is unlocked through Apple In-App Purchase, including Apple's official offer or promo code redemption where available.
+The free tier may save up to 50 lifetime proof items. Deleting saved proof items does not reset the lifetime free-save count. ProofKeep Pro Lifetime is unlocked through Apple In-App Purchase, including Apple's official offer or promo code redemption where available.
 
 ## Intended Use
 

@@ -2,7 +2,7 @@
 
 Effective date: June 9, 2026
 
-This Privacy Policy explains how ProofKeep Receipts, also referred to as ProofKeep Receipts, handles information.
+This Privacy Policy explains how ProofKeep Receipts, handles information.
 
 ## Summary
 
@@ -19,7 +19,7 @@ The current ProofKeep Receipts app is local-only:
 
 ## Who Operates ProofKeep Receipts
 
-ProofKeep Receipts and the ProofKeep Receipts app materials are owned and operated by Deepak Sharma. Copyright (c) 2026 Deepak Sharma. All rights reserved.
+ProofKeep Receipts and its app materials are owned and operated by Deepak Sharma. Copyright (c) 2026 Deepak Sharma. All rights reserved.
 
 ## Who ProofKeep Receipts Is For
 
@@ -60,7 +60,7 @@ The current app does not sync data to a server. If you delete the app, local app
 
 ## Purchases
 
-If you buy ProofKeep Receipts Pro or redeem an Apple offer or promo code through Apple In-App Purchase, Apple processes the transaction or redemption. ProofKeep Receipts may read local App Store entitlement information to unlock paid features, but the current app does not send purchase records to a ProofKeep Receipts server.
+If you buy ProofKeep Pro or redeem an Apple offer or promo code through Apple In-App Purchase, Apple processes the transaction or redemption. ProofKeep Receipts may read local App Store entitlement information to unlock paid features, but the current app does not send purchase records to a ProofKeep Receipts server.
 
 ## Data Sharing
 

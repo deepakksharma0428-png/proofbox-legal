@@ -2,11 +2,11 @@
 
 Effective date: June 9, 2026
 
-These Terms of Use govern your access to and use of ProofKeep Receipts, also referred to as ProofKeep Receipts in these Terms, including the iOS app, related documentation, and any related materials.
+These Terms of Use govern your access to and use of ProofKeep Receipts, including the iOS app, related documentation, and any related materials.
 
 ## Owner
 
-ProofKeep Receipts and the related ProofKeep Receipts app materials are owned and operated by Deepak Sharma. Copyright (c) 2026 Deepak Sharma. All rights reserved.
+ProofKeep Receipts and the related app materials are owned and operated by Deepak Sharma. Copyright (c) 2026 Deepak Sharma. All rights reserved.
 
 ## Acceptance
 
@@ -40,7 +40,7 @@ You are responsible for verifying all deadlines, return policies, warranty cover
 
 ## Ownership and Intellectual Property
 
-ProofKeep Receipts and the ProofKeep Receipts app materials, including the source code, object code, design, icons, workflows, software architecture, text, documentation, visual assets, classifications, screenshots, metadata, and related materials, are owned by Deepak Sharma or licensed to Deepak Sharma.
+ProofKeep Receipts and its app materials, including the source code, object code, design, icons, workflows, software architecture, text, documentation, visual assets, classifications, screenshots, metadata, and related materials, are owned by Deepak Sharma or licensed to Deepak Sharma.
 
 These Terms do not claim ownership over general ideas, common receipt scanning or document organization concepts, third-party services, user receipts, merchant names, carrier names, product names, logos, or functionality that others independently own or develop.
 
@@ -48,7 +48,7 @@ Except for rights expressly granted to you under these Terms, all rights, title,
 
 ## Free and Paid Features
 
-ProofKeep Receipts may provide a free tier with up to 50 lifetime saved proof items and an optional paid ProofKeep Receipts Pro lifetime unlock. Deleting saved proof items does not reset the lifetime free-save count. After the free lifetime save limit is reached, additional saves require ProofKeep Receipts Pro unless Deepak Sharma changes the free tier in a future version.
+ProofKeep Receipts may provide a free tier with up to 50 lifetime saved proof items and an optional paid ProofKeep Pro lifetime unlock. Deleting saved proof items does not reset the lifetime free-save count. After the free lifetime save limit is reached, additional saves require ProofKeep Pro unless Deepak Sharma changes the free tier in a future version.
 
 Paid digital features offered in the iOS app are processed through Apple In-App Purchase. Apple may also provide official offer, promo, or redemption codes for eligible purchases. Refunds, billing, taxes, family sharing availability, and purchase disputes are handled under Apple's applicable App Store rules. Availability, pricing, and features may change as permitted by applicable law and App Store rules.
 
