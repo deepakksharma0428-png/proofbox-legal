@@ -1,12 +1,12 @@
-# ProofBox Privacy Policy
+# ProofKeep Receipts Privacy Policy
 
 Effective date: June 9, 2026
 
-This Privacy Policy explains how ProofBox Vault, also referred to as ProofBox, handles information.
+This Privacy Policy explains how ProofKeep Receipts, also referred to as ProofKeep Receipts, handles information.
 
 ## Summary
 
-The current ProofBox Vault app is local-only:
+The current ProofKeep Receipts app is local-only:
 
 - No account is required.
 - No backend is used.
@@ -17,17 +17,17 @@ The current ProofBox Vault app is local-only:
 - No tracking is included.
 - No personal data is sold.
 
-## Who Operates ProofBox
+## Who Operates ProofKeep Receipts
 
-ProofBox Vault and the ProofBox app materials are owned and operated by Deepak Sharma. Copyright (c) 2026 Deepak Sharma. All rights reserved.
+ProofKeep Receipts and the ProofKeep Receipts app materials are owned and operated by Deepak Sharma. Copyright (c) 2026 Deepak Sharma. All rights reserved.
 
-## Who ProofBox Is For
+## Who ProofKeep Receipts Is For
 
-ProofBox is intended for adults and everyday users who want to organize their own purchase-related proof. ProofBox is not intended for children under 13 and is not designed for regulated professional recordkeeping.
+ProofKeep Receipts is intended for adults and everyday users who want to organize their own purchase-related proof. ProofKeep Receipts is not intended for children under 13 and is not designed for regulated professional recordkeeping.
 
 ## Information Processed On Your Device
 
-ProofBox may process the following information locally on your device:
+ProofKeep Receipts may process the following information locally on your device:
 
 - Photos and screenshots you select or allow the app to scan.
 - OCR text extracted from images.
@@ -40,45 +40,45 @@ This information is used to classify, name, organize, search, and remind you abo
 
 ## Photo Library Access
 
-ProofBox asks for photo library access so it can scan screenshots and photos for purchase-related proof. You may grant full access, limited access, or deny access through iOS settings.
+ProofKeep Receipts asks for photo library access so it can scan screenshots and photos for purchase-related proof. You may grant full access, limited access, or deny access through iOS settings.
 
-When scanning, ProofBox uses on-device processing. Matching items are copied into ProofBox's local app storage so they can be searched and organized inside the app.
+When scanning, ProofKeep Receipts uses on-device processing. Matching items are copied into ProofKeep Receipts's local app storage so they can be searched and organized inside the app.
 
 ## Camera Access
 
-ProofBox asks for camera access so you can scan receipts, labels, warranties, and shipping proof directly.
+ProofKeep Receipts asks for camera access so you can scan receipts, labels, warranties, and shipping proof directly.
 
 ## Notifications
 
-ProofBox may ask for notification permission so it can remind you before return windows, warranty dates, or other due dates you save in the app.
+ProofKeep Receipts may ask for notification permission so it can remind you before return windows, warranty dates, or other due dates you save in the app.
 
 ## Data Storage
 
-ProofBox stores app data locally on your device, including saved proof records, local image copies, OCR text, notes, classifications, and due dates.
+ProofKeep Receipts stores app data locally on your device, including saved proof records, local image copies, OCR text, notes, classifications, and due dates.
 
 The current app does not sync data to a server. If you delete the app, local app data may be deleted according to iOS behavior.
 
 ## Purchases
 
-If you buy ProofBox Pro or redeem an Apple offer or promo code through Apple In-App Purchase, Apple processes the transaction or redemption. ProofBox may read local App Store entitlement information to unlock paid features, but the current app does not send purchase records to a ProofBox server.
+If you buy ProofKeep Receipts Pro or redeem an Apple offer or promo code through Apple In-App Purchase, Apple processes the transaction or redemption. ProofKeep Receipts may read local App Store entitlement information to unlock paid features, but the current app does not send purchase records to a ProofKeep Receipts server.
 
 ## Data Sharing
 
 The current app does not share your saved proof data with Deepak Sharma, analytics providers, advertisers, data brokers, or third-party cloud services.
 
-If you manually share, export, message, email, or otherwise send proof items outside ProofBox, that sharing is controlled by you and may be handled by Apple's share system or other apps you choose.
+If you manually share, export, message, email, or otherwise send proof items outside ProofKeep Receipts, that sharing is controlled by you and may be handled by Apple's share system or other apps you choose.
 
 ## Tracking and Advertising
 
-ProofBox does not track you across apps or websites and does not include advertising in the current app.
+ProofKeep Receipts does not track you across apps or websites and does not include advertising in the current app.
 
 ## Children's Privacy
 
-ProofBox is not intended for children under 13. The app is designed as a productivity tool for organizing purchase proof.
+ProofKeep Receipts is not intended for children under 13. The app is designed as a productivity tool for organizing purchase proof.
 
 ## Security
 
-ProofBox uses local device storage and Apple's platform frameworks. No method of storage is perfectly secure. You are responsible for protecting your device, passcode, Apple ID, backups, and physical access to your phone.
+ProofKeep Receipts uses local device storage and Apple's platform frameworks. No method of storage is perfectly secure. You are responsible for protecting your device, passcode, Apple ID, backups, and physical access to your phone.
 
 ## Your Choices
 
@@ -96,4 +96,4 @@ If future versions add accounts, cloud sync, analytics, subscriptions, AI servic
 
 ## Contact
 
-For privacy questions, use the official ProofBox Vault support page or the contact method listed in the App Store listing.
+For privacy questions, use the official ProofKeep Receipts support page or the contact method listed in the App Store listing.
