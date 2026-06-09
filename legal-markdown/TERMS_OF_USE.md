@@ -94,4 +94,4 @@ These Terms are governed by the laws of the jurisdiction where Deepak Sharma res
 
 ## Contact
 
-For legal or support questions, use the official ProofKeep Receipts support page or the contact method listed in the App Store listing.
+For legal or support questions, email proofkeepreceipts@gmail.com or use the official ProofKeep Receipts support page.

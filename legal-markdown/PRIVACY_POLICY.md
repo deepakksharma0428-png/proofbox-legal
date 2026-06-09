@@ -42,7 +42,7 @@ This information is used to classify, name, organize, search, and remind you abo
 
 ProofKeep Receipts asks for photo library access so it can scan screenshots and photos for purchase-related proof. You may grant full access, limited access, or deny access through iOS settings.
 
-When scanning, ProofKeep Receipts uses on-device processing. Matching items are copied into ProofKeep Receipts's local app storage so they can be searched and organized inside the app.
+When scanning, ProofKeep Receipts uses on-device processing. Matching items are copied into local app storage so they can be searched and organized inside the app.
 
 ## Camera Access
 
@@ -96,4 +96,4 @@ If future versions add accounts, cloud sync, analytics, subscriptions, AI servic
 
 ## Contact
 
-For privacy questions, use the official ProofKeep Receipts support page or the contact method listed in the App Store listing.
+For privacy questions, email proofkeepreceipts@gmail.com or use the official ProofKeep Receipts support page.
